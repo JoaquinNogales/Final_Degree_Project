@@ -1,0 +1,41 @@
+TREE_COLORS
+SEPARATOR TAB
+DATA
+82-1	branch	rgb(143, 206, 0)	normal	1
+82-2	branch	rgb(143, 206, 0)	normal	1
+82-3	branch	rgb(143, 206, 0)	normal	1
+104-2	branch	rgb(244, 67, 54)	normal	1
+HUB1	branch	rgb(244, 67, 54)	dashed	1
+101-8	branch	rgb(244, 67, 54)	normal	1
+74-2	branch	rgb(244, 67, 54)	normal	1
+61-2	branch	rgb(244, 67, 54)	normal	1
+62-1	branch	rgb(244, 67, 54)	normal	1
+RM5-5	branch	rgb(244, 67, 54)	normal	1
+83-1	branch	rgb(244, 67, 54)	normal	1
+82-6	branch	rgb(244, 67, 54)	normal	1
+83-4	branch	rgb(244, 67, 54)	normal	1
+I18	branch	rgb(244, 67, 54)	normal	1
+OROOT	branch	rgb(244, 67, 54)	normal	1
+I4	branch	rgb(244, 67, 54)	normal	1
+I3	branch	rgb(244, 67, 54)	normal	1
+I14	branch	rgb(244, 67, 54)	normal	1
+I17	branch	rgb(244, 67, 54)	normal	1
+I8	branch	rgb(143, 206, 0)	normal	1
+I12	branch	rgb(244, 67, 54)	normal	1
+I6	branch	rgb(143, 206, 0)	normal	1
+I11	branch	rgb(244, 67, 54)	normal	1
+I2	branch	rgb(244, 67, 54)	normal	1
+HUB1	label	#000000	bold	1
+82-1	label_background	rgb(217, 234, 211)
+82-2	label_background	rgb(217, 234, 211)
+82-3	label_background	rgb(217, 234, 211)
+104-2	label_background	rgb(244, 204, 204)
+HUB1	label_background	rgb(244, 204, 204)
+101-8	label_background	rgb(244, 204, 204)
+74-2	label_background	rgb(244, 204, 204)
+61-2	label_background	rgb(244, 204, 204)
+62-1	label_background	rgb(244, 204, 204)
+RM5-5	label_background	rgb(244, 204, 204)
+83-1	label_background	rgb(244, 204, 204)
+82-6	label_background	rgb(255, 242, 204)
+83-4	label_background	rgb(244, 204, 204)
