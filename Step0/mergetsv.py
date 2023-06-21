@@ -22,6 +22,6 @@ for i in ts:
     t = pd.read_csv(path, sep='\t')
     out = pd.merge(out, t, on='Assembly', how='inner')
  
-# Now store the 'Output_df'
-# in tsv file 'Output.tsv'
+# Now store the 'out' dataframe
+# in tsv file 'report_full'
 out.to_csv(path_to_directory+"report_full.tsv", sep="\t", header=True, index=False)
