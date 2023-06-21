@@ -32,3 +32,4 @@ Step 6. Proteome comparison (no source codes implied) ; tools used: BV-BRC bidir
 
 Step 7. Network interactions and enrichment analysis (no source codes implied) ; tools used: STRING database and Cytoscape
 
+Additional code used during the experiment is placed on the Step 0 folder.
